@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/nithintata/" target="blank">
   <img align="left" alt="Nithin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/samal_chirag/" target="blank">
+<a href="#" target="blank">
   <img align="left" alt="Nithin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://kaggle.com/ntikmr" target="blank">
