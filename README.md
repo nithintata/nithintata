@@ -21,11 +21,11 @@ Hi, I'm Nithin🙌, an undergraduate student at NIT Jamshedpur 🚀 from India. 
 
 Beside's developing stuff, I enjoy listening music 🎧, watching web series 📺, and travelling 🏝️🗻.
 
-<img align="right" alt="GIF" margin = "15px" width="400" height="400" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<img align="right" alt="GIF" margin = "15px" width="350" height="300" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
-<!-- - 🔭 I’m currently Intern at CodeCrunch. -->
+- 🔭 I’m currently Intern at GeeksForGeeks.
 - 🌱 I’m currently learning NodeJs.
 - 👯 Part of Developer Communities.
 - ⚡ Kaggle Contributor [@Kaggle](https://www.kaggle.com/ntikmr)
