@@ -21,9 +21,10 @@ Hi, I'm Nithin🙌, an undergraduate student at NIT Jamshedpur 🚀 from India. 
 
 Beside's developing stuff, I enjoy listening music 🎧, watching web series 📺, and travelling 🏝️🗻.
 
-<img align="right" alt="GIF" margin = "15px" width="350" height="300" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<!--<img align="right" alt="GIF" margin = "15px" width="350" height="300" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" /> -->
 
 **Talking about Personal Stuffs:**
+<p>
 
 - 🔭 I’m currently Intern at GeeksForGeeks.
 - 🌱 I’m currently learning NodeJs.
@@ -35,7 +36,9 @@ Beside's developing stuff, I enjoy listening music 🎧, watching web series �
 - 📝[Portfolio](https://sakigo9.github.io/MyPortfolio/)
 - ✨ I can draw too.[ArtGallery](https://www.instagram.com/finding_my.way/) -->
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithintata&hide=html&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Akash Kumar's github stats"/>
 
+</p>
 
 <!-- **Community**
 - Google Developer Group Bengaluru
@@ -60,6 +63,4 @@ Beside's developing stuff, I enjoy listening music 🎧, watching web series �
 
 <p>
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=nithintata&theme=radical&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=33&hide_rank=false" alt="Akash Kumar's github stats"/>
-  
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithintata&hide=html&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Akash Kumar's github stats"/>
 </p>
