@@ -10,6 +10,8 @@
 </a>
 <a href="https://kaggle.com/ntikmr" target="blank">
   <img align="left" alt = "Nithin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" /></a>
+<a href="https://leetcode.com/nithintata/">
+  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" /> </a>
 <a href = "#">
   <img align="left" src="https://komarev.com/ghpvc/?username=nithintata" alt="nithintata" /> </a>
 
@@ -20,6 +22,8 @@
 Hi, I'm Nithin🙌, an undergraduate student at NIT Jamshedpur 🚀 from India. I'm passionate in the fields of Web Development and Deep Learning. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
 
 Beside's developing stuff, I enjoy listening music 🎧, watching web series 📺, and travelling 🏝️🗻.
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <!--<img align="right" alt="GIF" margin = "15px" width="350" height="300" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" /> -->
 
@@ -35,9 +39,6 @@ Beside's developing stuff, I enjoy listening music 🎧, watching web series �
 <!--- ⚡ Check out my recent [Blogs](https://medium.com/@saketprag322)
 - 📝[Portfolio](https://sakigo9.github.io/MyPortfolio/)
 - ✨ I can draw too.[ArtGallery](https://www.instagram.com/finding_my.way/) -->
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithintata&hide=html&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Akash Kumar's github stats"/>
-
 </p>
 
 <!-- **Community**
@@ -63,4 +64,6 @@ Beside's developing stuff, I enjoy listening music 🎧, watching web series �
 
 <p>
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=nithintata&theme=radical&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=33&hide_rank=false" alt="Akash Kumar's github stats"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithintata&hide=html&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Akash Kumar's github stats"/>
+
 </p>
